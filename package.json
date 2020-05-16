@@ -11,6 +11,7 @@
     "babel-preset-react": "6.24.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-modal": "2.3.3",
     "validator": "^13.0.0",
     "webpack": "3.12.0"
   },
